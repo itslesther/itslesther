@@ -135,9 +135,3 @@ May 2021 – Dec 2021
 
 
 * 🔗 **LinkedIn:** [in/itslesther](https://www.google.com/search?q=https://linkedin.com/in/itslesther).
-
-
-
----
-
-¿Quieres que personalicemos la sección de **"Leadership"** para resaltar más tu rol como mentor y arquitecto de equipos?

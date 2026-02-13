@@ -6,25 +6,25 @@ I am a **Blockchain Developer and Software Architect** with over 9 years of expe
 
 ## 🛠 Tech Stack
 
-* **Languages:** Solidity, Rust, Go, TypeScript, JavaScript.
+* **Languages:** Solidity, Rust, Go, TypeScript, JavaScript, Tact.
 
 
-* **Blockchain:** TON (Tact), Solana (Anchor), Polygon (ZkEVM), Ethereum, Cosmos, Bitcoin.
+* **Blockchain:** TON, Solana, Polygon (ZkEVM), Ethereum, Cosmos, Bitcoin, SUI, Skale, Avalanche.
 
 
-* **Frontend:** React (NextJS), Angular, Vite.
+* **Frontend:** React (NextJS), Angular, Vite, Ionic.
 
 
-* **Backend:** NodeJS (NestJS), GraphQL, Go.
+* **Backend:** NodeJS (NestJS), GraphQL, Python, Go.
 
 
-* **Infrastructure:** AWS (EC2, Lambda), Google Cloud Services, Docker.
+* **Infrastructure:** AWS (EC2, Lambda), Google Cloud Services, Docker, Firebase, BigQuery.
 
 
 
 ---
 
-## 📂 Featured Projects by Experience
+## 📂 Professional Experience & Projects
 
 ### Rather Labs | 
 
@@ -33,22 +33,22 @@ May 2023 – Present
 * **PYTON:** Developed Solidity/Tact smart contracts and modified a Go-based ZkEVM node to sync Polygon L2 with TON L1.
 
 
-* **Opsin:** Built multi-chain user vaults and swap logic using Rust (Solana) and NestJS, integrating Clickhouse SQL.
+* **Opsin:** Built multi-chain user vaults and swap logic using Rust (Solana) and NestJS, with Clickhouse SQL for data ingestion.
 
 
-* **7k AI:** Developed the React UI for an AI-driven trading chatbot on the SUI network (Cetus DEX).
+* **Swisstronik:** Created TypeScript/JavaScript libraries for cross-chain interactions between EVM and Cosmos.
 
 
-* **Tars Staking:** Engineered Solana staking and DAO smart contracts in Rust with The Graph indexing.
+* **Zenrock:** Built a cross-chain bridge for SPL tokens linking Bitcoin, Zenrock, and Solana via Go and Cosmos modules.
 
 
-* **One Balance:** Implemented **ERC-4337 account abstraction** and integrated Turnkey for secure trading.
+* **Runemine:** Developed a high-performance Bitcoin indexer for Runes transactions using Rust and SQLite.
 
 
-* **Runemine:** Developed a high-performance **Bitcoin indexer** for Runes transactions using Rust and SQLite.
+* **One Balance:** Implemented ERC-4337 account abstraction and integrated Turnkey for secure trading.
 
 
-* **Zenrock:** Built a cross-chain bridge for SPL tokens linking Bitcoin, Zenrock, and Solana via Go.
+* **7k AI & Tars Staking:** Developed AI-driven trading UI (SUI) and Solana staking/DAO smart contracts in Rust.
 
 
 
@@ -59,16 +59,13 @@ Dec 2021 – May 2023
 * **SatoshiSync:** Engineered a cross-chain bridge to migrate Bitcoin Ordinals and BRC-20 tokens to EVM and Solana.
 
 
-* **DeWallet:** Developed a Chrome extension wallet for ERC-721 token management.
+* **DeWallet & LiveCGI:** Developed a Chrome extension for ERC-721 and an ERC-1155 marketplace with an Ethereum bridge.
 
 
-* **LiveCGI:** Built an ERC-1155 marketplace on a private Skale chain with an Ethereum Mainnet bridge.
+* **Bridge Tower & Rainmaker:** Architected NFT marketplaces on Avalanche and multi-chain staking platforms on Polygon/Ethereum.
 
 
-* **Bridge Tower:** Architected NFT marketplaces and staking platforms on Avalanche and Ethereum.
-
-
-* **Rainmaker:** Developed multi-chain staking and vesting platforms on Ethereum and Polygon.
+* **NEOM & Clow Cash:** Designed ERC-721 marketplaces and secure ERC-20 token vesting platforms.
 
 
 
@@ -76,10 +73,26 @@ Dec 2021 – May 2023
 
 Jan 2022 – July 2022 
 
-* **Solana Pay:** Built a retail payment platform using QR code transactions and internal SPL token swaps.
+* **Solana Pay:** Built a retail payment platform for QR transactions and internal SPL token swaps.
 
 
 * **Arbitrage Bot:** Developed an automated AMM bidding bot and management interface using Rust and AWS.
+
+
+
+### Paribu | 
+
+May 2021 – Dec 2021 
+
+* **Crypto APIs:** Led the implementation of scalable APIs and GraphQL schemas for cryptocurrency data.
+
+
+
+### Linea D | 
+
+May 2021 – Dec 2021 
+
+* **Team Lead & Architect:** Led developers in building high-performing web/mobile apps using Ionic, Firebase, and BigQuery.
 
 
 
@@ -87,21 +100,21 @@ Jan 2022 – July 2022
 
 2018 – 2021 
 
-* **Diamond Algorithm:** Architected a robust smart contract system for greater flexibility and upgradability.
+* **Diamond Algorithm:** Architected a robust smart contract system for flexible and upgradable platform governance.
 
 
-* **STO Platform:** Led the design and implementation of blockchain-based platforms for issuers and investors.
+* **STO Platform:** Led the design of blockchain-based platforms for tokenized assets.
 
 
 
----
+### Early Projects (Freelance) | 
 
-## 💼 Leadership & Impact
+2017 – 2018 
 
-* **Architect & Team Lead:** Proven track record directing cross-functional teams and promoting technical excellence.
+* **RentPeacefully:** Developed a property listing platform integrating cryptocurrency payments.
 
 
-* **Security Mindset:** Experienced in smart contract audits and implementing asset authenticity certificates.
+* **Cryptoway:** Built backend services for high-frequency trading data using NodeJS and MySQL.
 
 
 
@@ -117,11 +130,14 @@ Jan 2022 – July 2022
 
 ## 📫 Connect with Me
 
+
 * 📧 **Email:** [lesther.tech@gmail.com](mailto:lesther.tech@gmail.com).
 
 
 * 🔗 **LinkedIn:** [in/itslesther](https://www.google.com/search?q=https://linkedin.com/in/itslesther).
 
 
-* 🌐 **Portfolio:** [lesther.tech](https://lesther.tech).
 
+---
+
+¿Quieres que personalicemos la sección de **"Leadership"** para resaltar más tu rol como mentor y arquitecto de equipos?

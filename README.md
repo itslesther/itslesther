@@ -26,9 +26,17 @@ I am a **Blockchain Developer and Software Architect** with over 9 years of expe
 
 ## 📂 Professional Experience & Projects
 
+### DAWN |
+
+March 2025 
+
+* Developed Solana Rust smart contracts using Anchor in order to allow internet plan subscriptions.
+* Worked on Go backend in order to expose API to customers, listen to Smart contract events and update customer data.
+* Migrated Rust backend to Go keeping the same API.
+
 ### Rather Labs | 
 
-May 2023 – Present 
+May 2023 – March 2025 
 
 * **PYTON:** Developed Solidity/Tact smart contracts and modified a Go-based ZkEVM node to sync Polygon L2 with TON L1.
 
